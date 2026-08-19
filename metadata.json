@@ -1,0 +1,6 @@
+{
+  "name": "Tareas & Calendario",
+  "description": "Aplicación de tareas para 2 usuarios con calendario vinculado y asignación de actividades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
